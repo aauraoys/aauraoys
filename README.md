@@ -16,17 +16,17 @@
 </a>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OHYUNSEOK&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aauraoys&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OHYUNSEOK&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aauraoys&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%EC%84%9D-%EC%98%A4-a7b417175/)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OHYUNSEOK&theme=dracula)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aaruaoys&theme=dracula)
 
 ---
 
-⭐️ From [OHYUNSEOK](https://github.com/OHYUNSEOK)
+⭐️ From [OHYUNSEOK](https://github.com/aauraoys)
