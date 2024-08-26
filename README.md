@@ -7,12 +7,12 @@
 
 ## 🛠 Technical Skills
 - **Frontend**: JavaScript, TypeScript, React.js, Vue.js
-- **Backend**: Python
+- **Backend**: Spring framework
 - **Databases**: Oracle, MySQL
 
 ## 🏆 Achievements
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="항해플러스 수료 배지" />
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" alt="항해플러스 수료 배지" />
 </a>
 
 ## 📊 GitHub Stats
@@ -24,9 +24,5 @@
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%EC%84%9D-%EC%98%A4-a7b417175/)
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aaruaoys&theme=dracula)
-
----
 
 ⭐️ From [OHYUNSEOK](https://github.com/aauraoys)
